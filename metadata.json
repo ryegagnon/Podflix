@@ -1,0 +1,6 @@
+{
+  "name": "Podflix",
+  "description": "A high-definition video podcast app optimized for TV displays, featuring consistent playback history and a Netflix-style leanback experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
